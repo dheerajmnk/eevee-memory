@@ -13,7 +13,3 @@ The card components were made with the help of my friend who provided me with th
 ![Eevee Evolution Match](./public/img/preview.JPG)
 
 If 2 consecutive choices match, the card will remain flipped (like vaporeon) otherwise the cards will return to their back portion (flareon and jolteon did not match) after a 1 second delay. Flipping animation is performed for every choice. 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
